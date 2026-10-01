@@ -25,6 +25,5 @@ I speak French, Swedish, and English. I care about accessible design, clear docu
 ### GitHub at a glance
 
 ![Matty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matjat23&show_icons=true&theme=radical&hide_border=true)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matjat23&layout=compact&theme=radical&hide_border=true)
 
 > Building, learning, and sharing one project at a time. 💜
