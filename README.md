@@ -11,6 +11,8 @@ I'm a software and automation engineer and an MSc student in High-Performance Co
 
 **[My American Year](https://matjat23.github.io)** ([code](https://github.com/Matjat23/Matjat23.github.io)) is a website I built to document my year in the US, one chapter per city, with the goal of visiting 100 cities. It is a single page in plain HTML, CSS and JavaScript with an interactive map (D3), video loops, a photo viewer and a language switch for English, Swedish and French. Behind it is a small Python pipeline that resizes my photos, strips GPS data and makes WebP thumbnails and share images for every chapter.
 
+**[spotlight.io](https://github.com/Matjat23/spotlight-ai)** is a photo and video search tool my team (Isak Rodung, Joshua Shiley and I) built in one weekend at the AI4Good Hackathon 2026, where we took 3rd place. It helps the nonprofit Dreams Come True find moments in their archive by describing them in plain words. Local models describe every photo and video frame (Qwen2.5-VL), and search combines CLIP image vectors, MiniLM text vectors and BM25 keywords with Reciprocal Rank Fusion. Whisper makes what is said in videos searchable. Everything runs on one laptop, staff accept or correct every AI suggestion, and faces only become anonymous groups, because the photos are of children and their families.
+
 **MediCall** is a Flutter app that connects elderly patients at home with mobile care teams, built with Stanford Biodesign Digital Health and Sahlgrenska University Hospital.
 
 I also won my track at the SSEN 2026 Hackathon at Chalmers, and my bachelor's thesis used regression on crash data (CISS) to study gender differences in traffic safety.
