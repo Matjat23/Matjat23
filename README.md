@@ -11,6 +11,15 @@ I'm a software and automation engineer and an MSc student in High-Performance Co
 
 <p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
 
+## Right now
+
+- Building Kamarat for the #BuildHybridAI 2026 hackathon
+- Writing software for automated guided vehicles at Amerden in Florida
+- Visiting 100 US cities for My American Year
+- Back at Chalmers in Gothenburg in fall 2027
+
+<p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
+
 ## Projects
 
 ### Maja
@@ -34,6 +43,11 @@ In desktop Chrome, Gemini Nano runs on your device, finds names, ID numbers and 
 
 On 44 made-up test letters in many languages, the rule-based check kept 207 of 208 personal details out of the shared text. It is not legal advice. Built with React, Vite and Firebase AI Logic.
 
+<p align="center">
+  <img src="assets/kamarat-home.jpg" alt="Kamarat home screen" width="260">
+  <img src="assets/kamarat-letter.jpg" alt="Kamarat explaining a test letter" width="260">
+</p>
+
 [Code](https://github.com/Matjat23/kamarat) · [Live](https://kamarat-hackathon.web.app)
 
 ### Closer
@@ -43,6 +57,8 @@ We also use it for a shared streak, a Sunday check-in with our own questions, a 
 
 ### My American Year
 A website I built to document my year in the US, one chapter per city, with the goal of visiting 100 cities. It is a single page in plain HTML, CSS and JavaScript with an interactive map (D3), video loops, a photo viewer and English, Swedish and French. A small Python pipeline resizes my photos, strips GPS data and makes WebP thumbnails and share images for every chapter.
+
+<a href="https://matjat23.github.io"><img src="assets/my-american-year.jpg" alt="My American Year start page" width="100%"></a>
 
 [Code](https://github.com/Matjat23/Matjat23.github.io) · [Live](https://matjat23.github.io)
 
