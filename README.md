@@ -13,7 +13,7 @@ I'm a software and automation engineer and an MSc student in High-Performance Co
 
 ## Right now
 
-- Building Kamarat for the #BuildHybridAI 2026 hackathon
+- Building Katty for the #BuildHybridAI 2026 hackathon
 - Writing software for automated guided vehicles at Amerden in Florida
 - Visiting 100 US cities for My American Year
 - Back at Chalmers in Gothenburg in fall 2027
@@ -36,16 +36,16 @@ Local models describe every photo and video frame (Qwen2.5-VL), and search combi
 
 [Code](https://github.com/Matjat23/spotlight-ai)
 
-### Kamarat
-Explains an official notice, like a letter from a migration agency, a tax office or a university, after hiding your personal details on your own device. My entry for the #BuildHybridAI 2026 hackathon. I have lived in Senegal, France, Sweden and the US, and every move came with letters I did not fully understand.
+### Katty
+Your buddy in a new country. Katty explains an official notice, like a letter from a migration agency, a tax office or a university, after hiding your personal details on your own device. My entry for the #BuildHybridAI 2026 hackathon. I have lived in Senegal, France, Sweden and the US, and every move came with letters I did not fully understand.
 
 In desktop Chrome, Gemini Nano runs on your device, finds names, ID numbers and addresses, and my code swaps them for labels like `[NAME_1]` (without Nano, rule-based checks do this). You see side by side what will be shared and approve it. Only then does Gemini in the cloud explain what the letter asks of you, and every point quotes the sentence it comes from, which my code checks is really in the letter. Deadlines are worked out by the code, not the AI.
 
 On 44 made-up test letters in many languages, the rule-based check kept 207 of 208 personal details out of the shared text. It is not legal advice. Built with React, Vite and Firebase AI Logic.
 
 <p align="center">
-  <img src="assets/kamarat-home.jpg" alt="Kamarat home screen" width="260">
-  <img src="assets/kamarat-ask.jpg" alt="Asking Kamarat what to do in the first week" width="260">
+  <img src="assets/kamarat-home.jpg" alt="Katty home screen" width="260">
+  <img src="assets/kamarat-ask.jpg" alt="Asking Katty what to do in the first week" width="260">
 </p>
 
 [Code](https://github.com/Matjat23/kamarat) · [Live](https://kamarat-hackathon.web.app)
