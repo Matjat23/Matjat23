@@ -1,9 +1,15 @@
-# Hi, I'm Matty
+<p align="center">
+  <img src="assets/banner.svg" alt="Hi, I'm Matty" width="100%">
+</p>
 
 I'm a software and automation engineer and an MSc student in High-Performance Computer Systems at Chalmers University of Technology in Gothenburg, Sweden. Right now I'm on a one-year internship at Amerden in St. Augustine, Florida, where I build software for Automatic Guided Vehicles (AGVs) and work hands-on with the automation hardware. I like turning complex ideas into tools people can actually use.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matty%20Jatta-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matty-jatta-b11880199/)
-[![Website](https://img.shields.io/badge/Website-My%20American%20Year-e8784a?style=flat)](https://matjat23.github.io)
+<p align="center">
+  <a href="https://www.linkedin.com/in/matty-jatta-b11880199/"><img src="https://img.shields.io/badge/LinkedIn-Matty%20Jatta-ec4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://matjat23.github.io"><img src="https://img.shields.io/badge/Website-My%20American%20Year-c084fc?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+</p>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
 
 ## Projects
 
@@ -43,30 +49,40 @@ A website I built to document my year in the US, one chapter per city, with the 
 ### MediCall
 A Flutter app that connects elderly patients at home with mobile care teams, built with Stanford Biodesign Digital Health and Sahlgrenska University Hospital.
 
+<p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
+
 ## Awards and thesis
 
 I won my track at the SSEN 2026 Hackathon at Chalmers, and my bachelor's thesis used regression on crash data (CISS) to study gender differences in traffic safety.
+
+<p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
 
 ## Work
 
 At Amerden I write software for AGV systems in C#, C++ and Python, configure vehicles with Kollmorgen NDC8 and work with PLCs. Before that I spent two summers as a data analyst at Göteborg Energi, working with Python, Power BI and Microsoft Fabric.
 
+<p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
+
 ## Tools I use
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PLC](https://img.shields.io/badge/PLC-555555?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-ec4899?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%23-f472b6?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/C++-c084fc?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-a855f7?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SQL-db2777?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/PLC-e879f9?style=for-the-badge" alt="PLC">
+  <img src="https://img.shields.io/badge/React-d946ef?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Firebase-f06292?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/FastAPI-ec4899?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Flutter-f472b6?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Ollama-c084fc?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+  <img src="https://img.shields.io/badge/Power_BI-a855f7?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-db2777?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric">
+  <img src="https://img.shields.io/badge/Git-e879f9?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
 
 ## About me
 

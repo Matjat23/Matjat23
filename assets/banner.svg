@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffe4f1"/>
+      <stop offset="0.5" stop-color="#f6dcff"/>
+      <stop offset="1" stop-color="#ffd1e6"/>
+    </linearGradient>
+    <radialGradient id="blob1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ff9cc9" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ff9cc9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blob2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#c9a2ff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#c9a2ff" stop-opacity="0"/>
+    </radialGradient>
+    <path id="spark" d="M0,-14 C2,-4 4,-2 14,0 C4,2 2,4 0,14 C-2,4 -4,2 -14,0 C-4,-2 -2,-4 0,-14 Z"/>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+  <circle cx="140" cy="60" r="190" fill="url(#blob1)"/>
+  <circle cx="1080" cy="250" r="220" fill="url(#blob2)"/>
+  <circle cx="980" cy="40" r="120" fill="url(#blob1)"/>
+  <g fill="#ffffff">
+    <use href="#spark" transform="translate(190 70) scale(1.4)"/>
+    <use href="#spark" transform="translate(1010 92) scale(1.1)"/>
+    <use href="#spark" transform="translate(1085 190) scale(0.7)"/>
+    <use href="#spark" transform="translate(118 222) scale(0.8)"/>
+  </g>
+  <g fill="#f472b6">
+    <use href="#spark" transform="translate(240 236) scale(0.6)"/>
+    <use href="#spark" transform="translate(960 228) scale(0.9)"/>
+    <use href="#spark" transform="translate(1110 70) scale(0.55)"/>
+  </g>
+  <g fill="#c084fc">
+    <use href="#spark" transform="translate(90 120) scale(0.55)"/>
+    <use href="#spark" transform="translate(905 64) scale(0.5)"/>
+  </g>
+  <path d="M600 232 c-6 -10 -24 -10 -24 4 c0 12 24 22 24 26 c0 -4 24 -14 24 -26 c0 -14 -18 -14 -24 -4 z" fill="#f472b6" opacity="0.85"/>
+  <text x="600" y="138" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-style="italic" fill="#6b2150">Hi, I'm Matty</text>
+  <text x="600" y="190" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" letter-spacing="1.5" fill="#8a4f78">software and automation engineer  ·  MSc student at Chalmers</text>
+</svg>
