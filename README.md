@@ -20,6 +20,12 @@ I'm a software and automation engineer and an MSc student in High-Performance Co
 
 <p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
 
+## Work
+
+At Amerden I write software for AGV systems in C#, C++ and Python, configure vehicles with Kollmorgen NDC8 and work with PLCs. Before that I spent two summers as a data analyst at Göteborg Energi, working with Python, Power BI and Microsoft Fabric.
+
+<p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
+
 ## Projects
 
 ### Maja
@@ -30,7 +36,7 @@ She also keeps my notes and tasks, wakes up on "Hey Maja", sends reminders and c
 [Code](https://github.com/Matjat23/maja)
 
 ### spotlight.io
-A photo and video search tool my team (Isak Rodung, Joshua Shiley and I) built in one weekend at the AI4Good Hackathon 2026, where we took 3rd place. It helps the nonprofit Dreams Come True find moments in their archive by describing them in plain words, on one laptop with no cloud.
+A photo and video search tool my team (Isak Rodung, Joshua Shiley and I) built in one weekend at the AI4Good Hackathon 2026, where we took 3rd place. We built it for the nonprofit Dreams Come True and tested it on their photos: staff describe a moment in plain words and find it in their archive, on one laptop with no cloud.
 
 Local models describe every photo and video frame (Qwen2.5-VL), and search combines CLIP image vectors, MiniLM text vectors and BM25 keywords with Reciprocal Rank Fusion. Whisper makes what is said in videos searchable. Staff accept or correct every AI suggestion, and faces only become anonymous groups, because the photos are of children and their families.
 
@@ -44,8 +50,8 @@ In desktop Chrome, Gemini Nano runs on your device, finds names, ID numbers and 
 On 44 made-up test letters in many languages, the rule-based check kept 207 of 208 personal details out of the shared text. It is not legal advice. Built with React, Vite and Firebase AI Logic.
 
 <p align="center">
-  <img src="assets/kamarat-home.jpg" alt="Katty home screen" width="260">
-  <img src="assets/kamarat-ask.jpg" alt="Asking Katty what to do in the first week" width="260">
+  <img src="assets/katty-home.jpg" alt="Katty home screen" width="260">
+  <img src="assets/katty-check.jpg" alt="Katty showing which personal details in a test letter stay hidden" width="260">
 </p>
 
 [Code](https://github.com/Matjat23/kamarat) · [Live](https://kamarat-hackathon.web.app)
@@ -70,12 +76,6 @@ A Flutter app that connects elderly patients at home with mobile care teams, bui
 ## Awards and thesis
 
 I won my track at the SSEN 2026 Hackathon at Chalmers, and my bachelor's thesis used regression on crash data (CISS) to study gender differences in traffic safety.
-
-<p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
-
-## Work
-
-At Amerden I write software for AGV systems in C#, C++ and Python, configure vehicles with Kollmorgen NDC8 and work with PLCs. Before that I spent two summers as a data analyst at Göteborg Energi, working with Python, Power BI and Microsoft Fabric.
 
 <p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
 
