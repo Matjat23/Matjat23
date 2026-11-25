@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Hi, I'm Matty" width="100%">
 </p>
 
-I'm a software and automation engineer and an MSc student in High-Performance Computer Systems at Chalmers University of Technology in Gothenburg, Sweden. Right now I'm on a one-year internship at Amerden in St. Augustine, Florida, where I build software for Automatic Guided Vehicles (AGVs) and work hands-on with the automation hardware. I like turning complex ideas into tools people can actually use.
+I'm a software and automation engineer and an MSc student in High-Performance Computer Systems at Chalmers in Gothenburg, spending a year at Amerden in St. Augustine, Florida. I like turning complex ideas into tools people can actually use.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matty-jatta-b11880199/"><img src="https://img.shields.io/badge/LinkedIn-Matty%20Jatta-db2777?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -14,7 +14,6 @@ I'm a software and automation engineer and an MSc student in High-Performance Co
 ## Right now
 
 - Building Katty for the #BuildHybridAI 2026 hackathon
-- Writing software for automated guided vehicles at Amerden in Florida
 - Visiting 100 US cities for My American Year
 - Back at Chalmers in Gothenburg in fall 2027
 
@@ -23,6 +22,12 @@ I'm a software and automation engineer and an MSc student in High-Performance Co
 ## Work
 
 At Amerden I write software for AGV systems in C#, C++ and Python, configure vehicles with Kollmorgen NDC8 and work with PLCs. Before that I spent two summers as a data analyst at Göteborg Energi, working with Python, Power BI and Microsoft Fabric.
+
+<p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
+
+## Awards and thesis
+
+My bachelor's thesis used regression on crash data (CISS) to study gender differences in traffic safety. I also won my track at the SSEN 2026 Hackathon at Chalmers.
 
 <p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
 
@@ -38,12 +43,12 @@ She also keeps my notes and tasks, wakes up on "Hey Maja", sends reminders and c
 ### spotlight.io
 A photo and video search tool my team (Isak Rodung, Joshua Shiley and I) built in one weekend at the AI4Good Hackathon 2026, where we took 3rd place. We built it for the nonprofit Dreams Come True and tested it on their photos: staff describe a moment in plain words and find it in their archive, on one laptop with no cloud.
 
-Local models describe every photo and video frame (Qwen2.5-VL), and search combines CLIP image vectors, MiniLM text vectors and BM25 keywords with Reciprocal Rank Fusion. Whisper makes what is said in videos searchable. Staff accept or correct every AI suggestion, and faces only become anonymous groups, because the photos are of children and their families.
+Local models describe every photo and video frame (Qwen2.5-VL), and search combines CLIP image vectors, MiniLM text vectors and BM25 keywords with Reciprocal Rank Fusion. Whisper makes what is said in videos searchable. Staff accept or correct every AI suggestion, and face groups are never given names, because the photos are of children and their families.
 
 [Code](https://github.com/Matjat23/spotlight-ai)
 
 ### Katty
-Your buddy in a new country. Katty explains an official notice, like a letter from a migration agency, a tax office or a university, after hiding your personal details on your own device. My entry for the #BuildHybridAI 2026 hackathon. I have lived in Senegal, France, Sweden and the US, and every move came with letters I did not fully understand.
+Your buddy in a new country. Katty helps you understand an official notice, like a letter from a migration agency, a tax office or a university, and lets you check and hide your personal details on your own device before anything is sent. My entry for the #BuildHybridAI 2026 hackathon. I have lived in Senegal, France, Sweden and the US, and every move came with letters I did not fully understand.
 
 In desktop Chrome, Gemini Nano runs on your device, finds names, ID numbers and addresses, and my code swaps them for labels like `[NAME_1]` (without Nano, rule-based checks do this). You see side by side what will be shared and approve it. Only then does Gemini in the cloud explain what the letter asks of you, and every point quotes the sentence it comes from, which my code checks is really in the letter. Deadlines are worked out by the code, not the AI.
 
@@ -71,11 +76,7 @@ A website I built to document my year in the US, one chapter per city, with the 
 ### MediCall
 A Flutter app that connects elderly patients at home with mobile care teams, built with Stanford Biodesign Digital Health and Sahlgrenska University Hospital.
 
-<p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
-
-## Awards and thesis
-
-I won my track at the SSEN 2026 Hackathon at Chalmers, and my bachelor's thesis used regression on crash data (CISS) to study gender differences in traffic safety.
+[Code](https://github.com/JonatanLindh/MediCall)
 
 <p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
 
