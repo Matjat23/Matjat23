@@ -5,8 +5,8 @@
 I'm a software and automation engineer and an MSc student in High-Performance Computer Systems at Chalmers University of Technology in Gothenburg, Sweden. Right now I'm on a one-year internship at Amerden in St. Augustine, Florida, where I build software for Automatic Guided Vehicles (AGVs) and work hands-on with the automation hardware. I like turning complex ideas into tools people can actually use.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matty-jatta-b11880199/"><img src="https://img.shields.io/badge/LinkedIn-Matty%20Jatta-ec4899?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://matjat23.github.io"><img src="https://img.shields.io/badge/Website-My%20American%20Year-c084fc?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/matty-jatta-b11880199/"><img src="https://img.shields.io/badge/LinkedIn-Matty%20Jatta-db2777?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://matjat23.github.io"><img src="https://img.shields.io/badge/Website-My%20American%20Year-9333ea?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 </p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
@@ -45,7 +45,7 @@ On 44 made-up test letters in many languages, the rule-based check kept 207 of 2
 
 <p align="center">
   <img src="assets/kamarat-home.jpg" alt="Kamarat home screen" width="260">
-  <img src="assets/kamarat-letter.jpg" alt="Kamarat explaining a test letter" width="260">
+  <img src="assets/kamarat-ask.jpg" alt="Asking Kamarat what to do in the first week" width="260">
 </p>
 
 [Code](https://github.com/Matjat23/kamarat) · [Live](https://kamarat-hackathon.web.app)
@@ -82,20 +82,20 @@ At Amerden I write software for AGV systems in C#, C++ and Python, configure veh
 ## Tools I use
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-ec4899?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%23-f472b6?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/C++-c084fc?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/JavaScript-a855f7?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SQL-db2777?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/PLC-e879f9?style=for-the-badge" alt="PLC">
-  <img src="https://img.shields.io/badge/React-d946ef?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Firebase-f06292?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-  <img src="https://img.shields.io/badge/FastAPI-ec4899?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Flutter-f472b6?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Ollama-c084fc?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-  <img src="https://img.shields.io/badge/Power_BI-a855f7?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
-  <img src="https://img.shields.io/badge/Microsoft_Fabric-db2777?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric">
-  <img src="https://img.shields.io/badge/Git-e879f9?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Python-be185d?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%23-7e22ce?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/C++-c026d3?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-a21caf?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SQL-9d174d?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/PLC-86198f?style=for-the-badge" alt="PLC">
+  <img src="https://img.shields.io/badge/React-db2777?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Firebase-9333ea?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/FastAPI-be185d?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Flutter-7e22ce?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Ollama-c026d3?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+  <img src="https://img.shields.io/badge/Power_BI-a21caf?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-9d174d?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric">
+  <img src="https://img.shields.io/badge/Git-86198f?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="60%"></p>
